@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "restless-lab-c9f7",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "90590264-0645-40d1-9f35-97eb83242466",
+      "database_name": "restless-lab-c9f7-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
